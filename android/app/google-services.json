@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327049191879",
+    "project_id": "aplikasi-inventaris-alat-cad71",
+    "storage_bucket": "aplikasi-inventaris-alat-cad71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327049191879:android:7f0d7b342f7250f8c339e2",
+        "android_client_info": {
+          "package_name": "com.example.uuk_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRjJRSqJ93VVn5evjW_B_YfmyuqMZSGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
